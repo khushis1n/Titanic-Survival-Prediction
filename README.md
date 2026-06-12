@@ -1,7 +1,7 @@
 # 🚢 Task 1 – Titanic Survival Prediction
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Python-3.14.5-blue?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter" />
   <img src="https://img.shields.io/badge/scikit--learn-ML-green?style=flat-square&logo=scikitlearn" />
   <img src="https://img.shields.io/badge/CODTECH-AI%20Internship-red?style=flat-square" />
